@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Piano
+comment1.params=
+comment1.target=Piano()
+comment1.text=\r\nHacer\ el\ piano\ esto\ significa\ definir\ el\ tama?o,\r\n
+comment2.params=
+comment2.target=void\ makeKeys()
+comment2.text=\r\n\ Crea\ las\ teclas\ del\ piano\ (blancas\ y\ negras)\ y\ col?calas\ en\ el\ mundo.\r\n
+comment3.params=
+comment3.target=void\ showMessage()
+numComments=4

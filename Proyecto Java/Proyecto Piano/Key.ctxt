@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=keyName\ soundFile\ img1\ img2
+comment1.target=Key(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Crear\ una\ nueva\ tecla\ vinculada\ a\ una\ tecla\ del\ teclado\ determinada,\ y\r\n\ con\ un\ sonido\ determinado.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Accion\ para\ esta\ clave.\r\n
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\r\n\ Toca\ la\ nota\ de\ esta\ tecla.\r\n
+numComments=4
